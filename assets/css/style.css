@@ -1,0 +1,17 @@
+*{border: 1px solid red !important}
+
+.mainContent{
+  width: 650px;
+}
+
+.content{
+  margin: 60px 0 20px 0;
+  background-color: white;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 2px 2px 2px #888;
+}
+
+.center{
+  text-align: center;
+}
